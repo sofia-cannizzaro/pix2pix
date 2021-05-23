@@ -9,7 +9,7 @@ require 'optim'
 util = paths.dofile('util/util.lua')
 require 'image'
 require 'models'
-
+ciao
 
 opt = {
    DATA_ROOT = '',         -- path to images (should have subfolders 'train', 'val', etc)
